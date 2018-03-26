@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner3_array">
+        <item></item>
+        <item>30 minutes or less</item>
+        <item >less than 1 hour</item>
+        <item >more than 1 hour</item>
+    </string-array>
+
+
+</resources>

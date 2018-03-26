@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner2_array">
+        <item></item>
+        <item>less than 4</item>
+        <item >4-6</item>
+        <item >7-9</item>
+        <item>More than 10</item>
+    </string-array>
+
+</resources>

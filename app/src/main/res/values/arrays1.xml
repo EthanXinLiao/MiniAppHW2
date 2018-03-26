@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner1_array">
+        <item></item>
+        <item>Medium-Carb</item>
+        <item >Low-Carb</item>
+        <item >Balanced</item>
+    </string-array>
+
+</resources>
